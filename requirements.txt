@@ -1,0 +1,13 @@
+numpy==1.24.3
+opencv-python==4.7.0.72
+packaging==23.1
+Pillow==9.5.0
+rsa==4.9
+six==1.16.0
+sympy==1.11.1
+tensorboard==2.12.2
+tensorboard-data-server==0.7.0
+tensorboard-plugin-wit==1.8.1
+torch==2.0.0
+torchmetrics==0.11.4
+torchvision==0.15.1
