@@ -173,7 +173,7 @@ def trainer(args):
             loss_gp2 = compute_gradient_penalty(netD, img.data, gen2.data, mask.data)
             loss_gp = loss_gp1 + loss_gp2
 
-            out_real = netD(img.detach(), input_mask)
+            out_real = netD(img, input_mask)
             loss_adv3 = 2 * criterion_D(out_real, real_label)
 
             # Total loss
