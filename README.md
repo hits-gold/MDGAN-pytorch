@@ -21,7 +21,7 @@
 </figure>
 
 ## Installation
-    $ git clone https://gitlab.surromind.ai/mlg/pytorch-mdgan.git
+    $ git clone https://github.com/hits-gold/MDGAN-pytorch.git
     $ cd pytorch-MDGAN/
     $ pip3 install -r requirements.txt
 
