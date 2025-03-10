@@ -25,7 +25,7 @@
     $ cd pytorch-MDGAN/
     $ pip3 install -r requirements.txt
 
-## Data prepration
+## Data preparation
     📦root
      |
      📂data	
